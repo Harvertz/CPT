@@ -5,3 +5,4 @@ After that we considered the overall aesthetics of the interface and wanted it t
 Finally, we added comments, fixed some potential bugs, and conducted comprehensive testing to verify the functionality and performance of the system to complete the final draft, i.e. 'code.cpp'.
 
 During the coding process, we followed good software engineering principles, minimized coupling, improved cohesion, and ensured the maintainability and scalability of the code.
+End.
